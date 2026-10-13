@@ -1,139 +1,100 @@
 
 <!--
   ANDYARA CRISTINA
-  GitHub: andycris-ui
-
-  Theme: Cyber Minimalism
-  Black   #0D0D14
-  Red     #E63946
-  Blue    #278BFF
-  Magenta #D946EF
+  GitHub Profile | Dark Tech Editorial
 -->
 
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0D0D14&height=3&section=header"
+    src="https://capsule-render.vercel.app/api?type=rect&color=278BFF&height=3&section=header"
     width="100%"
     alt=""
   />
 
   <br>
 
-  <sub>WELCOME TO MY GITHUB PROFILE</sub>
+  <sub>SOFTWARE ENGINEERING · TECHNOLOGY · CONTINUOUS LEARNING</sub>
 
-  <h1>Andyara Cristina.</h1>
+  <h1>Andyara Cristina</h1>
 
-  <h3>Engenharia de Software | Futura estudante de Nutrição</h3>
+  <h3>Estudante de Engenharia de Software</h3>
 
   <p>
-    Estudando Python, Java e SQL.<br>
-    Interesse em Cibersegurança e Banco de Dados.<br>
-    Em constante aprendizado.
+    Futura estudante de Nutrição.<br>
+    Explorando a tecnologia, desenvolvendo conhecimentos
+    e construindo minha trajetória profissional.
   </p>
 
-  <br>
-
-  <a href="https://github.com/andycris-ui">
-    <img src="https://img.shields.io/badge/@andycris--ui-0D0D14?style=for-the-badge&logo=github&logoColor=E63946"/>
-  </a>
-
-  <br><br>
-
-  <img src="https://img.shields.io/badge/STATUS-LEARNING-E63946?style=flat-square&labelColor=0D0D14"/>
-  <img src="https://img.shields.io/badge/FOCUS-TECHNOLOGY-278BFF?style=flat-square&labelColor=0D0D14"/>
-
-</div>
-
-<br>
-
----
-
-<h3>01. Sobre mim</h3>
-
-<p>
-  Sou estudante de <b>Engenharia de Software</b> e futura estudante de <b>Nutrição</b>.
-</p>
-
-<p>
-  Atualmente, estou estudando Python, Java e SQL, com interesse em Cibersegurança e Banco de Dados.
-</p>
-
-<p>
-  Em constante aprendizado.
-</p>
-
-<br>
-
----
-
-<h3>02. Tecnologias em estudo</h3>
-
-<div align="center">
-
-  <br>
-
-  <img
-    src="https://skillicons.dev/icons?i=python,java&theme=dark"
-    height="55"
-    alt="Python e Java"
-  />
-
-  <br><br>
-
-  <img src="https://img.shields.io/badge/PYTHON-0D0D14?style=for-the-badge&logo=python&logoColor=278BFF"/>
-
-  <img src="https://img.shields.io/badge/JAVA-0D0D14?style=for-the-badge&logo=openjdk&logoColor=E63946"/>
-
-  <img src="https://img.shields.io/badge/SQL-0D0D14?style=for-the-badge&logoColor=D946EF"/>
-
-  <br><br>
-
-  <sub>Learning • Practicing • Evolving</sub>
+  <p>
+    <a href="https://github.com/andycris-ui">
+      <img src="https://img.shields.io/badge/GitHub-0D0D14?style=for-the-badge&logo=github&logoColor=278BFF" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/andyara-c-91863a423">
+      <img src="https://img.shields.io/badge/LinkedIn-0D0D14?style=for-the-badge&logo=linkedin&logoColor=278BFF" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.instagram.com/andy_cris.a/">
+      <img src="https://img.shields.io/badge/Instagram-0D0D14?style=for-the-badge&logo=instagram&logoColor=D946EF" alt="Instagram"/>
+    </a>
+  </p>
 
 </div>
 
 <br>
 
----
+## Sobre mim
 
-<h3>03. Áreas de interesse</h3>
+Sou estudante de **Engenharia de Software** e futura estudante de **Nutrição**.
+
+Atualmente, estou aprofundando meus conhecimentos em programação, estudando **Python, Java e SQL**, com interesse especial nas áreas de **Cibersegurança e Banco de Dados**.
+
+Acredito no aprendizado contínuo como parte essencial do desenvolvimento pessoal e profissional.
+
+<br>
+
+## Tecnologias em estudo
+
+<div align="left">
+
+  <img src="https://img.shields.io/badge/Python-0D0D14?style=for-the-badge&logo=python&logoColor=278BFF" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-0D0D14?style=for-the-badge&logo=openjdk&logoColor=D946EF" alt="Java"/>
+  <img src="https://img.shields.io/badge/SQL-0D0D14?style=for-the-badge&logoColor=278BFF" alt="SQL"/>
+
+</div>
+
+<br>
+
+## Áreas de interesse
 
 <table>
-<tr>
-<td width="50%" align="center">
-<br>
-<img src="https://img.shields.io/badge/CYBERSECURITY-E63946?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-<br><br>
-<b>Cibersegurança</b>
-<br>
-<sub>Área de interesse</sub>
-<br><br>
-</td>
-<td width="50%" align="center">
-<br>
-<img src="https://img.shields.io/badge/DATABASE-278BFF?style=for-the-badge&logo=databricks&logoColor=white"/>
-<br><br>
-<b>Banco de Dados</b>
-<br>
-<sub>Área de interesse</sub>
-<br><br>
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 / Cibersegurança</h3>
+      <p>
+        Interesse em segurança da informação,
+        proteção de sistemas e dados.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 / Banco de Dados</h3>
+      <p>
+        Interesse em organização, gerenciamento
+        e estruturação de dados.
+      </p>
+    </td>
+  </tr>
 </table>
 
 <br>
 
----
+## Minha jornada no GitHub
 
-<h3>04. Repositórios</h3>
+Este espaço reúne meus estudos, exercícios e minha evolução ao longo da formação em Engenharia de Software.
 
-<div align="center">
-
-  <p>Um espaço para compartilhar meus estudos e minha evolução na programação.</p>
+<div align="left">
 
   <a href="https://github.com/andycris-ui?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORAR_REPOSITÓRIOS-0D0D14?style=for-the-badge&logo=github&logoColor=E63946"/>
+    <img src="https://img.shields.io/badge/EXPLORAR_REPOSITÓRIOS-278BFF?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositórios"/>
   </a>
 
 </div>
@@ -142,56 +103,23 @@
 
 ---
 
-<h3>05. Contato</h3>
-
 <div align="center">
 
-  <br>
-
-  <a href="https://github.com/andycris-ui">
-    <img src="https://img.shields.io/badge/GitHub-0D0D14?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-  </a>
-
-  <a href="https://www.instagram.com/andy_cris.a/">
-    <img src="https://img.shields.io/badge/Instagram-E63946?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/andyara-c-91863a423">
-    <img src="https://img.shields.io/badge/LinkedIn-278BFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
-  </a>
+  <sub>ALWAYS LEARNING, ALWAYS EVOLVING.</sub>
 
   <br><br>
 
-  <sub>
-    <a href="https://github.com/andycris-ui">GitHub</a>
-    •
-    <a href="https://www.instagram.com/andy_cris.a/">Instagram</a>
-    •
-    <a href="https://www.linkedin.com/in/andyara-c-91863a423">LinkedIn</a>
-  </sub>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-  <br>
-
-  <h3>Always learning, always evolving.</h3>
-
-  <sub>Made by Andyara Cristina</sub>
+  <sub>© Andyara Cristina · GitHub @andycris-ui</sub>
 
   <br><br>
 
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:E63946,50:278BFF,100:D946EF&height=3&section=footer"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:278BFF,100:D946EF&height=3&section=footer"
     width="100%"
     alt=""
   />
 
 </div>
+
 
 
