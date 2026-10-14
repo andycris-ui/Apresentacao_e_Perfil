@@ -1,92 +1,229 @@
-<!-- Paleta: Preto #000000 | Azul #0066FF / #00AEFF | Magenta #FF00CC -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,45:0066FF,100:FF00CC&text=Andyara%20Cristina&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Engenharia%20de%20Software%20%7C%20Ciberseguran%C3%A7a%20%7C%20Banco%20de%20Dados&descSize=18&descAlignY=58&animation=fadeIn" alt="Cabeçalho Andyara Cristina" />
+<!--
+  ANDYARA CRISTINA
+  GitHub: andycris-ui
+  Theme: Cyber Noir
+  Colors: Black / Electric Blue / Magenta
+-->
 
 <div align="center">
 
-<a href="https://github.com/andycris-ui">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FF00CC&center=true&vCenter=true&width=720&height=50&lines=Ol%C3%A1%2C+eu+sou+a+Andyara+%F0%9F%91%8B;Engenharia+de+Software+%F0%9F%92%BB;Futura+estudante+de+Nutri%C3%A7%C3%A3o+%F0%9F%A5%97;Estudando+Python%2C+Java+e+SQL+%F0%9F%90%8D%E2%98%95;Interesse+em+Ciberseguran%C3%A7a+%F0%9F%9B%A1%EF%B8%8F;Em+constante+aprendizado+%F0%9F%9A%80" alt="Texto animado" />
-</a>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D14,50:278BFF,100:D946EF&height=110&section=header"
+    width="100%"
+    alt=""
+  />
 
-<br/>
+  <sub>ANDYCRIS.UI / PROFILE README</sub>
 
-<img src="https://img.shields.io/badge/ANDYARA-CRISTINA-000000?style=for-the-badge&labelColor=0066FF&color=000000" />
-<img src="https://img.shields.io/badge/@andycris--ui-000000?style=for-the-badge&logo=github&logoColor=FF00CC&labelColor=000000&color=FF00CC" />
-<img src="https://komarev.com/ghpvc/?username=andycris-ui&label=VISITAS&style=for-the-badge&color=FF00CC&labelColor=000000" />
+  <h1>Andyara Cristina_</h1>
 
-<br/><br/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1300&color=278BFF&center=true&vCenter=true&width=650&height=45&lines=Software+Engineering;Cybersecurity+%26+Databases;Learning+Python%2C+Java+%26+SQL;Always+learning%2C+always+evolving"
+    alt="Apresentação animada"
+  />
 
-<a href="https://www.linkedin.com/in/andyara-c-91863a423">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00AEFF" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/andy_cris.a/">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF00CC" alt="Instagram" />
-</a>
+  <p>
+    <strong>Engenharia de Software | Futura estudante de Nutrição</strong>
+  </p>
+
+  <p>
+    Estudando Python, Java e SQL.<br>
+    Interesse em Cibersegurança e Banco de Dados.<br>
+    Em constante aprendizado.
+  </p>
+
+  <p>
+    <a href="https://github.com/andycris-ui">
+      <img
+        src="https://img.shields.io/badge/GITHUB-0D0D14?style=for-the-badge&logo=github&logoColor=278BFF"
+        alt="GitHub"
+      />
+    </a>
+    <a href="https://www.linkedin.com/in/andyara-c-91863a423">
+      <img
+        src="https://img.shields.io/badge/LINKEDIN-278BFF?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="LinkedIn"
+      />
+    </a>
+    <a href="https://www.instagram.com/andy_cris.a/">
+      <img
+        src="https://img.shields.io/badge/INSTAGRAM-D946EF?style=for-the-badge&logo=instagram&logoColor=white"
+        alt="Instagram"
+      />
+    </a>
+  </p>
+
+  <sub>ESTUDAR / CONSTRUIR / EVOLUIR</sub>
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divisor" />
+### 01 / Sobre mim
 
-## `> sobre_mim.sh`
+Olá! Sou **Andyara Cristina**, estudante de **Engenharia de Software** e futura estudante de **Nutrição**.
 
-```python
-class Andyara:
-    def __init__(self):
-        self.nome      = "Andyara Cristina"
-        self.github    = "andycris-ui"
-        self.area      = "Engenharia de Software"
-        self.proximo   = "Nutrição 🥗"
-        self.estudando = ["Python", "Java", "SQL"]
-        self.interesses = ["Cibersegurança", "Banco de Dados"]
-        self.status    = "Em constante aprendizado 🚀"
+Atualmente, estou estudando **Python, Java e SQL**, com interesse em construir minha trajetória profissional nas áreas de **Cibersegurança ou Banco de Dados**.
 
-    def hoje(self):
-        return "codando, aprendendo e evoluindo um commit por vez"
+Estou em constante aprendizado, buscando ampliar meus conhecimentos e evoluir pessoal e profissionalmente.
+
+<br>
+
+```text
+┌─────────────────────────────────────────────┐
+│  ANDYCRIS-UI / SYSTEM INFORMATION           │
+├─────────────────────────────────────────────┤
+│                                             │
+│  Formação atual : Engenharia de Software   │
+│  Próxima etapa  : Nutrição                  │
+│  Estudando      : Python | Java | SQL       │
+│                                             │
+│  Interesses:                                │
+│  > Cibersegurança                           │
+│  > Banco de Dados                           │
+│                                             │
+│  Status: Em constante aprendizado           │
+│                                             │
+└─────────────────────────────────────────────┘
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divisor" />
+---
 
-## `> stack.json`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00AEFF" />
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FF00CC" />
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00AEFF" />
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF00CC" />
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00AEFF" />
-<img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=FF00CC" />
-<img src="https://img.shields.io/badge/Databases-000000?style=for-the-badge&logo=postgresql&logoColor=00AEFF" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divisor" />
-
-## `> foco_atual.log`
-
-| 🔭 Estudando | 🎯 Interesses | 🌱 Próximo passo |
-|:---:|:---:|:---:|
-| Python • Java • SQL | Cibersegurança • Banco de Dados | Nutrição |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divisor" />
+### 02 / Tecnologias em estudo
 
 <div align="center">
 
-### 💬 Vamos conversar?
+  <br>
 
-<a href="https://www.linkedin.com/in/andyara-c-91863a423">
-  <img src="https://img.shields.io/badge/Conectar_no_LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/andy_cris.a/">
-  <img src="https://img.shields.io/badge/Seguir_no_Instagram-FF00CC?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+  <img
+    src="https://img.shields.io/badge/PYTHON-0D0D14?style=for-the-badge&logo=python&logoColor=278BFF"
+    alt="Python"
+  />
 
-<br/>
+  <img
+    src="https://img.shields.io/badge/JAVA-0D0D14?style=for-the-badge&logo=openjdk&logoColor=D946EF"
+    alt="Java"
+  />
 
-<sub><i>"Em constante aprendizado."</i> ✨</sub>
+  <img
+    src="https://img.shields.io/badge/SQL-0D0D14?style=for-the-badge&logoColor=278BFF"
+    alt="SQL"
+  />
+
+  <br><br>
+
+  <sub>LEARNING / PRACTICING / EVOLVING</sub>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF00CC,55:0066FF,100:000000&section=footer" alt="Rodapé" />
+<br>
+
+---
+
+### 03 / Áreas de interesse
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Cibersegurança</h3>
+      <p>
+        Interesse em segurança da informação,
+        proteção de sistemas e dados.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◈ Banco de Dados</h3>
+      <p>
+        Interesse em organização, gerenciamento
+        e estruturação de dados.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 04 / Minha jornada no GitHub
+
+Este espaço é dedicado ao compartilhamento dos meus estudos, exercícios e ao registro da minha evolução na programação.
+
+<div align="center">
+
+  <br>
+
+  <a href="https://github.com/andycris-ui?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/EXPLORAR_REPOSITÓRIOS-278BFF?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explorar meus repositórios"
+    />
+  </a>
+
+  <br><br>
+
+  <sub>DISCIPLINA / DEDICAÇÃO / EVOLUÇÃO</sub>
+
+</div>
+
+<br>
+
+---
+
+### 05 / Onde me encontrar
+
+<div align="center">
+
+  <a href="https://github.com/andycris-ui">
+    <img
+      src="https://img.shields.io/badge/GitHub-0D0D14?style=for-the-badge&logo=github&logoColor=278BFF"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/andyara-c-91863a423">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-278BFF?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://www.instagram.com/andy_cris.a/">
+    <img
+      src="https://img.shields.io/badge/Instagram-D946EF?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/andycris-ui">
+    @andycris-ui
+  </a>
+
+  •
+
+  <a href="https://www.instagram.com/andy_cris.a/">
+    @andy_cris.a
+  </a>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+  <h3>Always learning, always evolving.</h3>
+
+  <sub>ANDYARA CRISTINA · @ANDYCRIS-UI</sub>
+
+  <br><br>
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D14,50:278BFF,100:D946EF&height=100&section=footer"
+    width="100%"
+    alt=""
+  />
+
+</div>
