@@ -1,6 +1,12 @@
 <!-- ANDYARA CRISTINA | CYBER NOIR -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D0D14,50:278BFF,100:D946EF&amp;height=105&amp;section=header" width="100%" alt="Ondas em azul e magenta" />
+  
+<img
+  src="https://raw.githubusercontent.com/andycris-ui/andycris-ui/main/assets/cyber-lock.jpg"
+  width="155"
+  alt="Ilustração de cibersegurança em azul e magenta"
+/>
+
   <sub>ANDYCRIS.UI / PROFILE README</sub>
   <h1>Andyara Cristina_</h1>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=3500&amp;pause=1300&amp;color=278BFF&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=45&amp;lines=Engenharia+de+Software;Futura+estudante+de+Nutri%C3%A7%C3%A3o;Python+%7C+Java+%7C+SQL;Em+constante+aprendizado" alt="Formação e interesses com efeito de digitação" />
