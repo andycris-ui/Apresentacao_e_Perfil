@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180" role="img" aria-label="Escudo de cibersegurança com brilho suave">
+<defs><linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#278BFF"/><stop offset="1" stop-color="#D946EF"/></linearGradient></defs>
+<rect width="180" height="180" rx="28" fill="#0D0D14"/>
+<circle cx="90" cy="88" r="62" fill="none" stroke="#278BFF" stroke-width="1.5" opacity=".28"><animate attributeName="opacity" values=".15;.5;.15" dur="4s" repeatCount="indefinite"/></circle>
+<path d="M90 31 137 49v34c0 34-19 54-47 68-28-14-47-34-47-68V49Z" fill="#111A2A" stroke="url(#edge)" stroke-width="4"><animate attributeName="stroke-width" values="3;5;3" dur="4s" repeatCount="indefinite"/></path>
+<rect x="72" y="83" width="36" height="29" rx="5" fill="none" stroke="#D946EF" stroke-width="4"/>
+<path d="M79 83V72a11 11 0 0 1 22 0v11" fill="none" stroke="#278BFF" stroke-width="4" stroke-linecap="round"/>
+<circle cx="90" cy="96" r="3" fill="#278BFF"/>
+<path d="M90 99v5" stroke="#278BFF" stroke-width="3" stroke-linecap="round"/>
+<circle cx="90" cy="88" r="70" fill="none" stroke="#D946EF" opacity=".25" stroke-width="1"><animate attributeName="opacity" values=".1;.35;.1" dur="4s" repeatCount="indefinite"/></circle>
+</svg>
