@@ -72,25 +72,6 @@ class Andyara:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divisor" />
 
-## `> estatisticas.exe`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=andycris-ui&show_icons=true&hide_border=false&bg_color=000000&title_color=FF00CC&text_color=00AEFF&icon_color=FF00CC&border_color=0066FF&ring_color=FF00CC&border_radius=12&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andycris-ui&layout=compact&hide_border=false&bg_color=000000&title_color=FF00CC&text_color=00AEFF&border_color=0066FF&border_radius=12&langs_count=6&locale=pt-br" alt="Linguagens mais usadas" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=andycris-ui&theme=dark&background=000000&border=0066FF&stroke=0066FF&ring=FF00CC&fire=FF00CC&currStreakNum=00AEFF&sideNums=00AEFF&currStreakLabel=FF00CC&sideLabels=FF00CC&dates=7A7A7A&hide_border=false&border_radius=12&locale=pt_BR" alt="Sequência de contribuições" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andycris-ui&bg_color=000000&color=00AEFF&line=FF00CC&point=FFFFFF&area=true&area_color=FF00CC&title_color=FF00CC&hide_border=true&radius=12" alt="Gráfico de atividade" width="100%" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divisor" />
-
 <div align="center">
 
 ### 💬 Vamos conversar?
